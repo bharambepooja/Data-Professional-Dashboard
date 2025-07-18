@@ -2,6 +2,7 @@
 A dynamic Power BI dashboard designed to analyze the experiences, tools, and sentiments of data professionals worldwide—focusing on job roles, satisfaction metrics, language preferences, and regional employment distribution.
 
 📝 Short Description / Purpose
+
 The Data Professional Survey Breakdown dashboard provides a visually engaging summary of survey responses from 630 data professionals. It reveals key trends around salary, tools used, job satisfaction, and the ease or difficulty of entering the field. This dashboard is intended for aspiring professionals, recruiters, educators, and data-driven decision-makers in the tech space.
 
 🛠 Tech Stack
